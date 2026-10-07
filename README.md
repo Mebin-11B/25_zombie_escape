@@ -66,13 +66,13 @@ You may use an LLM during the lab. The goal is to use it as a coding assistant w
 
 ## Submission checklist
 
-- [ ] Tasks 1–4 completed and tested.
-- [ ] Health system with invincibility frames works correctly.
-- [ ] Ammo limit and reload mechanic work correctly.
-- [ ] Barrels explode and remove nearby zombies.
-- [ ] Fast and Tank zombie types spawn and behave as specified.
-- [ ] No unnecessary external dependencies added beyond pygame.
-- [ ] Code remains understandable and modular.
+- [x] Tasks 1–4 completed and tested.
+- [x] Health system with invincibility frames works correctly.
+- [x] Ammo limit and reload mechanic work correctly.
+- [x] Barrels explode and remove nearby zombies.
+- [x] Fast and Tank zombie types spawn and behave as specified.
+- [x] No unnecessary external dependencies added beyond pygame.
+- [x] Code remains understandable and modular.
 - [ ] Complete LLM chat-history link included.
 
 ## Submission
